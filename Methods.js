@@ -17,7 +17,6 @@ greetings('Hunny')
 const add = () => {
     return 2 + 5;
 };
-
 console.log(add());
 
 
@@ -43,7 +42,6 @@ console.log(newArr3);
 
 
 // async await 
-
 async function greetingsnew(){
     console.log('Hi Js');
 
