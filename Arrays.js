@@ -30,5 +30,6 @@ let arr2D =[[12,34,23,45],[21,34,56,77],[21,34,56,77]]
 // 1. map
 // 2. filter
 // 3. reduce
+// 4. lambda/arrow
 
-performing operation on each element of an array
+// performing operation on each element of an array 
